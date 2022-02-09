@@ -10,5 +10,14 @@
     </head>
     <body>
         <header>
-            Header
+            <h1>Sistema de Gestion</h1>
+            <h2>Socios de la Organizacion</h2>
+
+        <div>
+            <nav class="navegador contenedor">
+                <a href="index.php">Inicio</a>
+                <a href="nuevoSocio.php">Nuevo</a>
+                <a href="buscarSocio.php">Buscador</a>
+            </nav>
+        </div>
         </header>
